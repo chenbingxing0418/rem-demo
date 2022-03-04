@@ -1,0 +1,14 @@
+{
+  "name": "shoutao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"npx node-sass -w ./css/新.scss ./css/手淘.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flexible": "^0.1.20"
+  }
+}
